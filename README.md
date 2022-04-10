@@ -1,8 +1,9 @@
-<img align="right" src="https://github.com/Johnny-Saraiva/Johnny-Saraiva/images/illustration.png" width="300"/>
 <h1 align="center">Hi 👋, I'm Johnny Saraiva</h1>
 <h3 align="center">A passionate frontend developer and currently work at Instituto Atlântico</h3>
 
 ### A little about myself
+
+<img align="right" src="./images/illustration.png" width="300"/>
 
 🧑🏻‍💻 Front End Developer at Instituto Atlântico, Systems Analyst by training and passionate about systems development.
 
