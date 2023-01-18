@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Johnny Saraiva</h1>
-<h3 align="center">A passionate frontend developer and currently work at Instituto Atlântico</h3>
+<h3 align="center">A passionate frontend developer and currently work at HP</h3>
 
 ### A little about myself
 
 <img align="right" src="./images/illustration.png" width="300"/>
 
-🧑🏻‍💻 Front End Developer at Instituto Atlântico, Systems Analyst by training and passionate about systems development.
+🧑🏻‍💻 Front End Developer at HP, Systems Analyst by training and passionate about systems development.
 
 🚀 I've been trying to develop my Soft and Hard Skills daily, because learning is continuous and there will always be a next level.
 
